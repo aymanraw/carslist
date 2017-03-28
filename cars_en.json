@@ -1,0 +1,563 @@
+{
+	"cars": [{
+		"brand": "Acura",
+		"brandCode": 0,
+		"models": ["MDX", "rsx", "TL", "Type S", "yz 250"]
+	}, {
+		"brand": "Admiral",
+		"brandCode": 1,
+		"models": ["Pick up"]
+	}, {
+		"brand": "Agro",
+		"brandCode": 2,
+		"models": ["Pick up"]
+	}, {
+		"brand": "Alfaromeo",
+		"brandCode": 3,
+		"models": ["146", "147", "156", "159", "164", "165", "166", "Brera 3.2", "GTV", "Mito", "Spyder 3.01"]
+	}, {
+		"brand": "AMX",
+		"brandCode": 4,
+		"models": ["Javelin"]
+	}, {
+		"brand": "Arcticcat",
+		"brandCode": 5,
+		"models": ["Prowler"]
+	}, {
+		"brand": "ASA",
+		"brandCode": 6,
+		"models": ["10"]
+	}, {
+		"brand": "Asia",
+		"brandCode": 7,
+		"models": ["Bus", "Rocsta"]
+	}, {
+		"brand": "Aston Martin",
+		"brandCode": 8,
+		"models": ["DB-7", "DB-9", "DBS", "Lagonda", "Rapide", "V8", "vanquish s", "vanquish s ultimate", "Vantage"]
+	}, {
+		"brand": "Audi",
+		"brandCode": 9,
+		"models": ["100", "80", "A1", "A3", "A4", "A4 S Line", "A5", "A5 S Line", "A6", "A6 S Line", "A6_Avant", "A7", "A7 S-Line", "A8", "A8L", "Allroad", "Allroar Quatro", "Q3", "Q5", "Q7", "Q7 S-Line", "R8", "RS 4", "RS 6", "RS 5", "S4", "S5", "S6", "S7", "S8", "TT", "TTR", "TTS Line", "Turbo TT"]
+	}, {
+		"brand": "Austin",
+		"brandCode": 10,
+		"models": ["Healey"]
+	}, {
+		"brand": "Barracuda",
+		"brandCode": 11,
+		"models": []
+	}, {
+		"brand": "Becar",
+		"brandCode": 12,
+		"models": []
+	}, {
+		"brand": "Beijing",
+		"brandCode": 13,
+		"models": []
+	}, {
+		"brand": "Bentley",
+		"brandCode": 14,
+		"models": ["Arnage", "Brooklands", "Continental GTC", "Continental R", "Fight", "Flying Spur", "GT", "GT Speed", "GTC Speed", "Mansory", "Mulliner", "Mulsanne", "Speed", "Super Sport GT", "Turbo R", "Twin Turbo"]
+	}, {
+		"brand": "Beup",
+		"brandCode": 15,
+		"models": ["Beup"]
+	}, {
+		"brand": "Big Bear choppers",
+		"brandCode": 16,
+		"models": ["Sled Chopper"]
+	}, {
+		"brand": "Big Foot",
+		"brandCode": 17,
+		"models": []
+	}, {
+		"brand": "Blue Bird",
+		"brandCode": 18,
+		"models": ["Bus"]
+	}, {
+		"brand": "BMW",
+		"brandCode": 19,
+		"models": ["115i", "116i", "118i", "120i", "125 i", "135i", "316", "316 i", "316 Ti", "318", "318 Ci", "318 i", "318 is", "320 Ci", "320 i", "323 Ci", "323 i", "325 Ci", "325 i", "325 is", "325 Xi", "328 Ci", "328 i", "328 is", "330 Ci", "330 i", "330 Xi", "335 Ci", "335 I", "335i GT", "428i", "520", "520 i", "523", "523 i", "525", "525 i", "528", "528 i", "530 i", "532i", "535", "535 i", "540 i", "545i", "550 IA", "630 Ci", "630 I", "635 Ci", "635 CSi", "640 i", "645 Ci", "650 Ci", "650 I", "728", "728 i", "728 iL", "730", "730 i", "730 iL", "730Li", "735", "735 i", "735 iL", "735Li", "740 i", "740 iL", "740 Li", "745 i", "745 Li", "750 i", "750 iL", "750 Li", "760 Li", "840 Ci", "840 CSi", "850 Ci", "850 CSi", "850 IL", "ALPINA", "GT", "GT 535", "L.7", "M 2000", "M1", "M3", "M3 CSL", "M4", "M5", "M6", "MX6", "X1", "X3", "X5", "X5 M", "X6", "X6 M", "z1", "Z3", "z3m", "Z4", "Z4 M", "Z8"]
+	}, {
+		"brand": "Bugatti",
+		"brandCode": 20,
+		"models": ["Veyronn"]
+	}, {
+		"brand": "Buick",
+		"brandCode": 21,
+		"models": ["Century", "Eastwagon", "Electra", "GSX", "Lesabre", "Parkavenue", "Regal", "Rendevous", "Reviera", "Roadmaster", "Sky Lark"]
+	}, {
+		"brand": "Cadillac",
+		"brandCode": 22,
+		"models": ["ATS", "BLS", "Calais", "Catera", "Cidan", "Civelle", "Concourus", "CTS", "CTS - V", "CTS 4", "DHS", "Dievelle", "Dievelle DHS", "DievelleDTS", "DTS", "Eldorado", "Escalade", "Escalade XL", "Fleetwood", "Limosine", "North Star", "Saragano", "Series 62", "SLS", "SRX", "STS", "STS - V", "XLP", "XLR", "XLR-V", "xts 4"]
+	}, {
+		"brand": "California Roadster",
+		"brandCode": 23,
+		"models": ["Classic", "Escalade", "Hummer"]
+	}, {
+		"brand": "Caravan",
+		"brandCode": 24,
+		"models": ["Adria", "Aria", "Carvelair", "Chevrolet", "Gulf Stream", "Hopy", "Mobile", "Passport", "Spring Dale", "Sprite"]
+	}, {
+		"brand": "Carbodies",
+		"brandCode": 25,
+		"models": []
+	}, {
+		"brand": "Caterpillar",
+		"brandCode": 26,
+		"models": ["Tractors"]
+	}, {
+		"brand": "Centennial",
+		"brandCode": 27,
+		"models": []
+	}, {
+		"brand": "Chairman",
+		"brandCode": 28,
+		"models": ["500 S", "600 L", "CM 500 S", "CM 600 L", "CW 700 L", "Lumousinen"]
+	}, {
+		"brand": "Changan",
+		"brandCode": 29,
+		"models": ["500 S", "600 L", "CM 500 S", "CM 600 L", "CW 700 L", "Lumousinen"]
+	}, {
+		"brand": "Changfeng",
+		"brandCode": 30,
+		"models": ["Liebao"]
+	}, {
+		"brand": "Chery",
+		"brandCode": 31,
+		"models": ["308", "A-T", "QQ", "SQR", "Tiggon"]
+	}, {
+		"brand": "Chevrolet",
+		"brandCode": 32,
+		"models": ["Astro", "Avalanche", "Aveo", "Beretta", "Blair", "Brogham", "Bus", "Camaro", "Camaro 2SS", "Camaro IROC-Z", "Camaro RS", "Camaro SS", "Camaro SS-RS", "Camaro twin turbo", "Camaro Z 28", "Caprice", "Caprice LS", "Caprice LTZ", "Caprice Royall", "Caprice SS", "Captiva", "Caravan", "Cavalier", "Celebrity", "Chevelle", "corvair", "Corvette", "Corvette C7", "Corvette Z06", "Corvette Z51", "Corvette ZR1", "Cruise", "Dayx", "Decapotable", "Delux", "El Camino", "El Camino SS", "Epica", "Equinox", "Extreme", "GeoTracker", "HHR", "HHR", "Impala", "Impala SS", "Lumina", "Lumina CR8", "Lumina LTZ", "Lumina S", "Lumina SS", "Malibu", "Monte Carlo SS", "Nova", "Optra", "Pateriot", "Pick up", "Pick up SS", "Pick up Z 71", "Pickup SS", "S 10", "Safari", "Savana", "Sedan", "Silverado", "Silverado Z71", "Skyline", "Sonic", "Spark", "SSR", "Station", "Suburban", "Tahoe", "Tahoe LT", "Tahoe LTZ", "Tahoe SZS", "Tahoe Z71", "TahoeSS", "Tanker", "Trail Blazer", "Trail Blazer ss", "Traverse", "Truck", "Universal AD", "Uplander", "Van", "Venture"]
+	}, {
+		"brand": "Chrysler",
+		"brandCode": 33,
+		"models": ["C 300", "Caravan", "Cirrus", "Concorde", "Cordoba", "CROSSFIRE", "CROSSFIRE SRT6", "FIFTH AVENUE", "Grand Voyger", "Imperial", "LHS", "M 300", "Magnum", "Neon", "newport", "Newyorker", "Pacifica", "PT Cruiser", "S200", "Sebring", "SRT8", "Stratus", "TownCountry", "Voyger", "XLR"]
+	}, {
+		"brand": "Citreon",
+		"brandCode": 34,
+		"models": ["Berlingo", "C2", "C3", "C4", "C5", "C8", "DS3", "Jumper", "Jumpy", "Picasso", "Pluriel", "Regency", "Saxo", "Xara", "ZS"]
+	}, {
+		"brand": "City Car",
+		"brandCode": 35,
+		"models": []
+	}, {
+		"brand": "Club",
+		"brandCode": 36,
+		"models": ["Car"]
+	}, {
+		"brand": "CMC",
+		"brandCode": 37,
+		"models": ["Veryca"]
+	}, {
+		"brand": "Cobra",
+		"brandCode": 38,
+		"models": ["360"]
+	}, {
+		"brand": "Cruzer",
+		"brandCode": 39,
+		"models": ["Truck"]
+	}, {
+		"brand": "Daewoo",
+		"brandCode": 40,
+		"models": ["Bus", "Espero", "Lanos", "Leganza", "Matiz", "Nubera", "Tacoma"]
+	}, {
+		"brand": "Daihatsu",
+		"brandCode": 41,
+		"models": ["Applouse", "Ceria", "Charment", "copen", "Materia", "Pick up", "Rocky", "sirion", "Terios", "Truck", "Verosa", "YRV"]
+	}, {
+		"brand": "Darkart",
+		"brandCode": 42,
+		"models": ["Torando"]
+	}, {
+		"brand": "Datsun",
+		"brandCode": 43,
+		"models": ["120", "180 B", "200 L", "260 C", "Pick-up", "Z"]
+	}, {
+		"brand": "Dodge",
+		"brandCode": 44,
+		"models": ["Aspen RT", "Avenger", "Caliber", "Caravan", "Challenger", "Challenger RT", "Challenger SRT8", "Charger", "Charger Magnum", "Charger RT", "Charger SRT", "Charger SRT8", "Chrysler", "Concorde", "Continental", "Cornet", "Dakota", "Desoto", "Durango", "Emperial", "Ingram", "International", "Interpid", "Liner", "Magnum", "Meadowbrook", "Mirada", "Nitro", "Pickard", "Plymouth", "Prowler", "Ram", "Ram SRT-10", "Royal Custom", "Royal Monaco", "Special Deluxe", "Stealth RT", "Truck", "Van", "Viper", "Voyger"]
+	}, {
+		"brand": "Dong Feng",
+		"brandCode": 45,
+		"models": ["Truck"]
+	}, {
+		"brand": "Eagle",
+		"brandCode": 46,
+		"models": ["Truck"]
+	}, {
+		"brand": "Eicher",
+		"brandCode": 47,
+		"models": ["Bus"]
+	}, {
+		"brand": "Ferrari",
+		"brandCode": 48,
+		"models": ["328 GTS", "348 GTC", "348 GTS", "348 Spider", "348 TB", "355", "355 Spider", "360 Spider", "385", "456", "456 MGT", "458 italia", "550 Maranello", "575 Maranello", "599 GTB", "California", "Coupe", "F 355", "F 430", "Laforza", "Maranello", "Modena 360", "Scaglietti 612", "Scuderia 430", "Spider F 430", "Testarossa", "TR 512"]
+	}, {
+		"brand": "Fiat",
+		"brandCode": 49,
+		"models": ["1100", "1500", "500", "550 C", "Abarth", "Bretchel", "Caravan", "Coupe", "Pachte", "Pick-up", "PUNTO", "Turbo"]
+	}, {
+		"brand": "Ford",
+		"brandCode": 50,
+		"models": ["Aerostar", "Ambulance", "Bronco", "Bus", "Caravan", "Continental", "Cougar", "Coupe", "Crown Victoria", "Desel", "Edge", "Edsel", "Eleanor GT500", "Escape", "Excursion", "Expedition", "Explorer", "F1", "F600", "FairLane", "Falcon", "Fiesta", "figo", "Fireline", "five hundred", "Flex", "Focus", "Free Star", "Free Style", "Fusion", "Galaxie", "Grand Marquis", "GT", "Jeep", "Lightning", "Lightning SVT", "Lincoln", "LTD", "Maverick", "Mercury", "Milan", "Model A", "Mondeo", "Morder", "Mountaineer", "Mustang", "Mustang Boss 302", "Mustang Bullitt", "Mustang Cobra", "Mustang Convertible", "Mustang GT", "Mustang LX", "Mustang MACH1", "Mustang Roush", "Mustang Saleen", "Mustang Shelby", "Navigator", "Pakem Half", "Pick Up", "Pick Up F 150", "Pick Up F 250", "Pick Up F 350", "Pick Up F 650", "Pick Up FX 150", "Ranchero", "Ranger", "Raptor", "Sable", "Shelby Cobra", "Shelby GT2500", "Splash", "Station", "T 330", "Taurus", "Thunderbird", "Transit", "Van", "Villager", "Wind Star"]
+	}, {
+		"brand": "Foton",
+		"brandCode": 51,
+		"models": ["Foton", "View"]
+	}, {
+		"brand": "Franklin",
+		"brandCode": 52,
+		"models": []
+	}, {
+		"brand": "Freightliner",
+		"brandCode": 53,
+		"models": ["Air Stream"]
+	}, {
+		"brand": "Geely",
+		"brandCode": 54,
+		"models": ["Emgrand", "GS2", "GX720", "Pick-up"]
+	}, {
+		"brand": "GMC",
+		"brandCode": 55,
+		"models": ["Acadia", "Astro Van", "Blazer", "Bus", "C 6500", "Canyon", "Caravan", "Crane", "Denali", "Denali XL", "Envoy", "Jimmy", "Pick up", "Pick up Z71", "Safari", "SAVANA", "Sierra", "Sierra Z71", "sprint", "Suburban", "Sunoma", "Syklone", "Terrain", "Truck", "Typhoon", "Van", "Veyrca", "Yukon", "Yukon SLT", "Yukon XL"]
+	}, {
+		"brand": "golden dragon",
+		"brandCode": 56,
+		"models": ["bus", "van"]
+	}, {
+		"brand": "Golf car",
+		"brandCode": 57,
+		"models": []
+	}, {
+		"brand": "Gonow",
+		"brandCode": 58,
+		"models": ["Pick-up", "Victorn"]
+	}, {
+		"brand": "Gordon",
+		"brandCode": 59,
+		"models": ["Gordon"]
+	}, {
+		"brand": "Grand Tiger",
+		"brandCode": 60,
+		"models": ["Pick up"]
+	}, {
+		"brand": "Great Wall",
+		"brandCode": 61,
+		"models": ["GTI", "Hovercuv", "Pickup"]
+	}, {
+		"brand": "Hafei",
+		"brandCode": 62,
+		"models": ["Minyi"]
+	}, {
+		"brand": "Hama",
+		"brandCode": 63,
+		"models": ["Family"]
+	}, {
+		"brand": "HIGER",
+		"brandCode": 64,
+		"models": ["Bus", "Pick-up"]
+	}, {
+		"brand": "Hisei",
+		"brandCode": 65,
+		"models": ["Mini"]
+	}, {
+		"brand": "Honda",
+		"brandCode": 66,
+		"models": ["Accord", "Accord EX", "Accord Exi", "City", "Civic", "Civic si Turbo", "Civic Type R", "Crosstour", "CRV", "CRX", "Element", "genesis 380", "Integra", "Jazz", "Legend", "MRV", "NSX", "Odyssey", "Pick-up", "Pilot", "Prelude", "Ridgeline", "RSX", "S 2000", "Stream", "Vigor", "VRP"]
+	}, {
+		"brand": "Hudson",
+		"brandCode": 67,
+		"models": []
+	}, {
+		"brand": "Hummer",
+		"brandCode": 68,
+		"models": ["H1", "H1 SUT", "H2", "H2 SUT", "H3", "H3T"]
+	}, {
+		"brand": "Hyundai",
+		"brandCode": 69,
+		"models": ["Accent", "Atos", "Azera", "Bus", "Cadenza", "Centennial", "Coupe", "Elentra", "Galper", "Genesis", "Getz", "Grandeur", "H1", "Half Lorry", "I10", "I30", "I40", "Mini Van", "Matrix", "Senta Fe", "Sonata", "Tarjet", "Tuscan", "Veloster", "Veracruz"]
+	}, {
+		"brand": "Infiniti",
+		"brandCode": 70,
+		"models": ["EX 35", "FX 35", "FX 37", "FX 45", "FX 50", "FX 50 S", "FX 56", "G 25", "G 35", "G 35 S", "G 37", "G 37 S", "G 50 S", "JX35", "M 35", "M 37", "M 45", "M56", "M56S", "Mitsuoka", "Q45", "QX 70", "QX35", "QX4", "QX45", "QX56"]
+	}, {
+		"brand": "Isuzu",
+		"brandCode": 71,
+		"models": ["D-MAX", "Half-Lorry", "Pick Up", "Tropper"]
+	}, {
+		"brand": "Iveco",
+		"brandCode": 72,
+		"models": []
+	}, {
+		"brand": "JAC",
+		"brandCode": 73,
+		"models": ["half lorry"]
+	}, {
+		"brand": "Jaguar",
+		"brandCode": 74,
+		"models": ["Diamler", "E Type", "Executive", "GX", "Lailand", "Portfolio", "R-TYPE", "Sovergien", "S-TYPE", "Supercharger", "Surgeon", "SV8", "Vanden Plas", "Vouda Pal", "X16", "XF", "XF 76", "XFR", "XJ", "XJ6", "XJ6 LWB", "XJ6L", "XJ8", "XJ8L", "XJL", "XJR", "XJS", "XJS 12", "XJSC", "XK", "XK6", "XK8", "XKR", "XKRS", "XKS", "X-TYPE"]
+	}, {
+		"brand": "Jeep",
+		"brandCode": 75,
+		"models": ["BJ", "Cherokee", "Cherokee Pick-up", "Commander", "Compass", "FireBird", "Grand Cherokee", "korando", "Patriot", "SRT8", "Wagoneer", "Willys", "Wrangler"]
+	}, {
+		"brand": "JMC",
+		"brandCode": 76,
+		"models": ["half lorry"]
+	}, {
+		"brand": "Joyner",
+		"brandCode": 77,
+		"models": []
+	}, {
+		"brand": "Kama",
+		"brandCode": 78,
+		"models": ["Truck"]
+	}, {
+		"brand": "Kamaz",
+		"brandCode": 79,
+		"models": []
+	}, {
+		"brand": "Kia",
+		"brandCode": 80,
+		"models": ["Bus", "Sephia", "Cadenza", "Carens", "Carneval", "Cerato", "Clarus", "K 2700", "Mohave", "Opirus", "Optima", "Picanto", "Pregio", "Quoris", "Rio", "Shuma", "Sorento", "Soul", "Sportage", "van"]
+	}, {
+		"brand": "Komaiso",
+		"brandCode": 81,
+		"models": []
+	}, {
+		"brand": "Lada",
+		"brandCode": 82,
+		"models": ["Station"]
+	}, {
+		"brand": "Lamborghini",
+		"brandCode": 83,
+		"models": ["Aventador", "Countach", "Diablo", "Espada", "Gallardo", "LM 129", "LP 640", "Murcielagon"]
+	}, {
+		"brand": "Lancia",
+		"brandCode": 84,
+		"models": ["Capa"]
+	}, {
+		"brand": "Land Rover",
+		"brandCode": 85,
+		"models": ["Defender 110", "Defender 90", "Discovery", "Free Lander", "Jeep", "LR2", "LR3", "LR4"]
+	}, {
+		"brand": "Lexus",
+		"brandCode": 86,
+		"models": ["CT200h", "ES 250", "ES 300", "ES 350", "GS 250", "GS 300", "GS 350", "GS 400", "GS 430", "GS 450 H", "GS 460", "GX 460", "GX 470", "IS 200", "IS 250", "IS 300", "IS 300 C", "IS 350", "IS 360 C", "IS F", "LS 400", "LS 430", "LS 460", "LS 460 L", "LS 600 HL", "LX 470", "LX 570", "RX 300", "RX 330", "RX 350", "SC 300", "SC 400", "SC 430"]
+	}, {
+		"brand": "Lincolin",
+		"brandCode": 87,
+		"models": ["Cartier", "Continental", "limousine", "LS", "Mark LT", "MKS", "MKT", "MKX", "MKZ", "Navigator", "Pick-Up", "Town Car", "Zephyr"]
+	}, {
+		"brand": "Lotus",
+		"brandCode": 88,
+		"models": ["211", "Elise", "evora", "Exige"]
+	}, {
+		"brand": "Man",
+		"brandCode": 89,
+		"models": ["TGA 410", "TGA19.360"]
+	}, {
+		"brand": "Mark2",
+		"brandCode": 90,
+		"models": []
+	}, {
+		"brand": "Maserati",
+		"brandCode": 91,
+		"models": ["3000GT", "3200GT", "4200GT", "Corsa", "Coupe", "Gran Sport", "Gran Turismo", "Gran Turismo S", "Quattroporte", "Shamal", "Spyder", "Spyder Cambiocorsan"]
+	}, {
+		"brand": "Maybach",
+		"brandCode": 92,
+		"models": ["57", "57 S"]
+	}, {
+		"brand": "Mazda",
+		"brandCode": 93,
+		"models": ["2", "3", "323", "323 RX2", "6", "626", "929", "BT 50", "Bus", "CX-5", "CX-7", "CX-9", "MBV", "Miata", "MX5", "Pick Up", "RX3", "RX7 R1", "RX8", "Senthia", "Tribute", "Truck", "XEDOS", "Zoom 3", "Zoom 6"]
+	}, {
+		"brand": "McLaren",
+		"brandCode": 94,
+		"models": []
+	}, {
+		"brand": "Mercedes",
+		"brandCode": 95,
+		"models": ["180", "190", "190 SL", "200 CE", "200 E", "200 TE", "220 CE", "220 E", "220 S", "220 T", "220 TE", "230 CE", "230 E", "230 S", "230 SE", "230 TE", "240 E", "250 CE", "250 S", "250 SE", "260 E", "260 SE", "280 CE", "280 E", "280 G", "280 S", "280 SE", "280 SEL", "280 SL", "280 SLC", "280 TE", "300 CE", "300 E", "300 ML", "300 SE", "300 SEC", "300 SEL", "300 SL", "300 TE", "320 CE", "320 E", "320 S", "320 SE", "320 SEL", "320 SL", "320 TE", "350 SL", "380 SE", "380 SEC", "380 SEL", "380 SL", "380 SLC", "400 SE", "400 SEL", "420 E", "420 S", "420 SE", "420 SEC", "420 SEL", "420 SL", "450 SEL", "450 SEL 6.9", "450 SL", "450 SLC", "480 SL", "500 E", "500 S", "500 SE", "500 SEC", "500 SEL", "500 SL", "500SLC", "560 SEC", "560 SEL", "560 SL", "600 S", "600 SEC", "600 SEL", "600 SL", "A 140", "A 160", "A 170", "A 180", "A 250", "A 45", "Aktros 1840", "B 170", "B 200", "B 350", "Brabus", "C 160", "C 180", "C 200", "C 220", "C 230", "C 240", "C 240 T", "C 250", "C 28 AMG", "C 280", "C 300", "C 32 AMG", "C 320", "C 350", "C 36 AMG", "C 43 AMG", "C 430 L", "C 55 AMG", "C 63 AMG", "Caravan", "CGI 250", "CL 420", "CL 500", "CL 55 AMG", "CL 550", "CL 600", "CL 63 AMG", "CL 65", "CL 65 AMG", "CL 65 RS", "CL55", "CLA 250", "CLC 180", "CLC 200", "CLC 230", "CLC 280", "CLK", "CLK 200", "CLK 230", "CLK 240", "CLK 280", "CLK 320", "CLK 330", "CLK 350", "CLK 430", "CLK 500", "CLK 55", "CLK 550", "CLK 63 AMG", "CLS 280", "CLS 300", "CLS 350", "CLS 500", "CLS 55 AMG", "CLS 550", "CLS 63 AMG", "CLS 65", "D 300", "E 180", "E 190", "E 200", "E 220", "E 220 C", "E 230", "E 240", "E 240T", "E 250", "E 280", "E 280 T", "E 300", "E 320", "E 350", "E 430", "E 50", "E 500", "E 55", "E 550", "E 63", "EX 320", "G 230", "G 280", "G 300", "G 320", "G 400", "G 500", "G 55 AMG", "G 63 AMG", "G350", "Gazelle", "GL 450", "GL 500", "GLK 250", "GLK 280", "GLK 300", "GLK 350", "K 55", "LB", "Limousine", "MB 100", "ML 320", "ML 350", "ML 420", "ML 430", "ML 500", "ML 63", "ML 63 AMG", "ML430", "ML55", "R 280", "R 300", "R 350", "R 350 L", "R 500", "S 170", "S 220", "S 280", "S 300", "S 300 L", "S 320", "S 320 L", "S 350", "S 350 L", "S 400", "S 420", "S 420 L", "S 430", "S 430 L", "S 450 L", "S 500", "S 500 L", "S 55", "S 550", "S 550 L", "S 560", "S 600", "S 600 L", "S 63 AMG", "S 65 AMG", "S400 Hybrid", "SL 230", "SL 280", "SL 320", "SL 350", "SL 500", "SL 55", "SL 55 AMG", "SL 550", "SL 58 AMG", "SL 63 AMG", "SL 65 AMG", "SL Carlsson", "SLK 200", "SLK 230", "SLK 240", "SLK 250", "SLK 280", "SLK 32", "SLK 320", "SLK 350", "SLK 55", "SLK250", "SLR", "SLR 722", "SLS", "SLS 6.3 AMG", "Sprinter", "Truck", "V 230", "V 280", "Van", "Viano", "Vito", "Water Truck"]
+	}, {
+		"brand": "Mercury",
+		"brandCode": 96,
+		"models": ["Grand Marquis", "Marauder", "Mariner", "Milan", "Montego", "MOUNTAINEER", "Mystiquen"]
+	}, {
+		"brand": "MG",
+		"brandCode": 97,
+		"models": ["550S-T", "750", "Classic"]
+	}, {
+		"brand": "Mini",
+		"brandCode": 98,
+		"models": ["Clubman", "Cooper", "Cooper GP", "Cooper S", "Countryman", "Countryman S", "Limited", "Minor", "moke", "One", "PACEMAN", "Rovern"]
+	}, {
+		"brand": "Mitsouka",
+		"brandCode": 99,
+		"models": ["galue", "Orochi"]
+	}, {
+		"brand": "Mitsubishi",
+		"brandCode": 100,
+		"models": ["ASX", "Bus", "Canter", "Colt", "Eclipse", "Evolution", "Galant", "Grandis", "GT 3000", "GT 3500", "Half-Lorry", "Lancer", "Lancer EX", "Lancer GT", "Magna", "Magna VR-X", "Monetero", "Nativa", "Outlander", "Pajero", "Pajero io", "Pick Up", "Sigma", "Space Wagon", "Starion", "Station", "Van", "Z 7", "Zinger"]
+	}, {
+		"brand": "Morgan",
+		"brandCode": 101,
+		"models": ["Areo 8n"]
+	}, {
+		"brand": "Nissan",
+		"brandCode": 102,
+		"models": ["240 Z", "240 ZX", "260 ZX", "280 ZX", "300 Turbo", "300 ZX", "370s Nismo", "Altima", "Armada", "Bluebird", "Bus", "Cedric", "Coast", "Gloria", "GT", "GTR", "GTR-34", "Infinity", "Juke", "Laurel", "Maxima", "Micra", "Murano", "NAVARA", "Paladin", "Pathfinder", "Patrol", "Pick Up", "President", "Priemiera", "Qashqai", "Quest", "Safari", "Sentra", "Silvia", "Sky Line", "Sky Line GT", "Sky Line GTR", "Sunny", "Super Safari", "Tida", "Titan", "Twin Turbo", "van", "Xterra", "X-TRIL", "Z 350", "Z 370"]
+	}, {
+		"brand": "Noble",
+		"brandCode": 103,
+		"models": ["M 400"]
+	}, {
+		"brand": "Oldsmobile",
+		"brandCode": 104,
+		"models": []
+	}, {
+		"brand": "Opel",
+		"brandCode": 105,
+		"models": ["Estra", "GTS", "MV6", "Omega", "Rekord", "Signum", "Vectra"]
+	}, {
+		"brand": "Peogeot",
+		"brandCode": 106,
+		"models": ["206", "206 cc", "206 GTi", "206 rc", "207 cc", "207 rc", "3008", "300cc", "306 XR", "307", "307cc", "308", "308 cc", "350 LH", "405 GL", "406", "407", "504", "505", "505 GL", "505 GR", "508", "605", "607", "Partner", "RCZ", "SW 307", "Wagon"]
+	}, {
+		"brand": "Plymouth",
+		"brandCode": 107,
+		"models": ["Barracuda", "Gran Fury", "GTX", "Prowler", "Road Runner", "Van", "Voyger"]
+	}, {
+		"brand": "Polaris",
+		"brandCode": 108,
+		"models": ["Ranger", "RZRS"]
+	}, {
+		"brand": "Pontiac",
+		"brandCode": 109,
+		"models": ["Aztec", "Beaumont", "Bonovielle", "Catalina", "Fire Bird", "Formula", "Grand M", "Grand Prix", "GTO", "LMNS", "Montana", "Parisienne", "Solstice", "Trans M", "Transport", "Ventura"]
+	}, {
+		"brand": "Porsche",
+		"brandCode": 110,
+		"models": ["3.6 Turbo", "336", "911", "911 Turbo", "928", "928 GTS", "928 S4", "944", "964 RSR", "968", "996 GT3", "996 Turbo", "Boxter", "Boxter S", "Carmen", "Carrera", "Carrera 2", "Carrera 2 cabriolet", "Carrera 4", "Carrera 4S", "Carrera 4X", "Carrera 911", "carrera 993", "Carrera 996", "Carrera GT", "Carrera S", "Cayenne", "Cayenne 4S", "Cayenne Gemballa", "Cayenne GTS", "Cayenne Hamann", "Cayenne S", "Cayenne Turbo", "Cayenne Turbo GTS", "Cayenne Turbo S", "Cayman", "Cayman S", "Flat Nose", "Gemballa", "GT2", "GT3", "GT3 Cup", "GT3 Kit", "GTS 3", "GTZ", "Magnum", "Panamera", "Panamera 4", "Panamera 4S", "Panamera GTS", "Panamera S", "Panamera Turbo", "Super 1600", "Targa", "Targa 4", "Targa S4", "Turbo", "Turbo 993", "Turbo 997", "Turbo S", "Turbo X50", "Twin Turbon"]
+	}, {
+		"brand": "Proton",
+		"brandCode": 111,
+		"models": ["1.8 GTi", "Gen 2", "GTi", "Pick Up", "Wira"]
+	}, {
+		"brand": "Quad bike",
+		"brandCode": 112,
+		"models": ["Dom", "Kawazaki", "Sandraill"]
+	}, {
+		"brand": "Qutter Ham",
+		"brandCode": 113,
+		"models": ["Qutter Ham"]
+	}, {
+		"brand": "Range Rover",
+		"brandCode": 114,
+		"models": ["4.6", "Auto Biography", "Autobiography Sport", "Evoque", "Holland and Holland", "HSE 4.4", "HSE 4.6", "HSE 5.0", "HST", "Sport", "Sport Charger", "Sport HSE", "SUPER CHARGE", "Vogue", "Vogue 4.2", "Vouge SE", "West Chester"]
+	}, {
+		"brand": "Renault",
+		"brandCode": 115,
+		"models": ["25", "cinic", "Clio", "Clio Sport", "Espace", "Fluence", "GTS", "Laguna", "Megane", "Safran", "Vel Satis"]
+	}, {
+		"brand": "Rolls Royce",
+		"brandCode": 116,
+		"models": ["Bently", "Camargue", "Cambridge", "Corniche", "Drophead", "Ghost", "Phantom", "Silver Raith", "Silver Seraph", "Silver Shadow", "Silver Spirit", "Silver Sport", "Sport 111"]
+	}, {
+		"brand": "Rover",
+		"brandCode": 117,
+		"models": ["75", "827 Si", "MG", "Stearling"]
+	}, {
+		"brand": "SAAB",
+		"brandCode": 118,
+		"models": ["900", "9000CS", "901", "93", "95", "Aero 93", "Aero 95", "Griffin", "Turbo X"]
+	}, {
+		"brand": "Saic",
+		"brandCode": 119,
+		"models": ["Sabre"]
+	}, {
+		"brand": "Sand Car",
+		"brandCode": 120,
+		"models": []
+	}, {
+		"brand": "Sang Young",
+		"brandCode": 121,
+		"models": ["Actyon", "Chairman", "Korando", "Kyron", "Musso", "Re-Xton", "Rodius"]
+	}, {
+		"brand": "Seat",
+		"brandCode": 122,
+		"models": ["500", "Alhambra", "Altea", "Cordooba", "Exeo", "IBIZA", "Inca", "Inca-Combi", "Leon", "Toledo"]
+	}, {
+		"brand": "Skoda",
+		"brandCode": 123,
+		"models": ["Fabia", "Octavia", "Roomster", "Superb"]
+	}, {
+		"brand": "Sky",
+		"brandCode": 124,
+		"models": ["Saturn"]
+	}, {
+		"brand": "Smart",
+		"brandCode": 125,
+		"models": ["550 Maranello", "Limited", "Roadster"]
+	}, {
+		"brand": "Subaru",
+		"brandCode": 126,
+		"models": ["BRZ", "Forester", "Impreza", "Impreza WRX", "Legacy", "Outback", "STi", "SVX", "Tribeca", "WRX Turbo"]
+	}, {
+		"brand": "Sunlong",
+		"brandCode": 127,
+		"models": ["Busn"]
+	}, {
+		"brand": "Suzuki",
+		"brandCode": 128,
+		"models": ["alto", "APV", "Balino", "Bus", "Carry", "Celerio", "Darkart Tornado", "Grand Vitara", "IGNIS", "Jimmeny", "Jimmy", "Kizashi", "Liana", "Pick up", "Samurai", "Sarad 1000", "Sj 413 jx", "Swift", "SX4", "Van", "Vitara", "X-90", "XL7"]
+	}, {
+		"brand": "Tata",
+		"brandCode": 129,
+		"models": ["Bus", "Truck"]
+	}, {
+		"brand": "Taxi London",
+		"brandCode": 130,
+		"models": ["TX4"]
+	}, {
+		"brand": "Tembo",
+		"brandCode": 131,
+		"models": ["Delivery", "Excel4"]
+	}, {
+		"brand": "Toyota",
+		"brandCode": 132,
+		"models": ["4 runner", "Alphard", "Aurion", "Avallon", "Bus", "Camry", "Camry Grandy", "Celica", "COASTER", "Corola", "Corona", "Cressida", "Cressida GL", "Cressida GTX", "Cressida XL", "Crown", "Echo", "FJ Cruiser", "Fortuner", "FT-86", "GX", "Half Lorry", "Highlander", "Hilux", "Innova", "iQ", "Jeep", "Land Cruiser", "Land Cruiser GXR", "Land Cruiser VXR", "LC G Standard", "MR2", "Pick up", "Prado", "Previa", "Rav 4", "Senia", "Sequoia", "Siera", "Solara", "Starlet", "Supra", "Tacoma", "TD", "Tercel", "Truck", "Tundra", "Turbo", "venza", "XA", "Yaris", "Zelasn"]
+	}, {
+		"brand": "Tuk Tuk",
+		"brandCode": 133,
+		"models": ["Bajajn"]
+	}, {
+		"brand": "Volkswagen",
+		"brandCode": 134,
+		"models": ["1600", "Amarok", "Beetle", "Bora", "Caddy", "Caravan LT 28", "Caravelle", "Carmen", "CC", "Corrado", "Eos", "Golf", "Gti", "Jerjel", "Jetta", "Multi-Van", "Passat", "Passat CC", "Phaeton", "Polo", "Quad Bike", "R 20", "R 32", "R 36", "Scirocco", "SHARAN", "SR32", "Tiguan", "Touareg", "Transporter", "Van"]
+	}, {
+		"brand": "Volvo",
+		"brandCode": 135,
+		"models": ["244", "740", "760 GLE", "850", "850 GLT", "940", "940 GLE", "940 Turbo", "950", "960", "Bus", "C 30", "C 40", "C 60", "C 70", "C 80", "N 12", "S 122", "S 30", "S 40", "S 60", "S 60 R", "S 70", "S 80", "S 90", "Truck", "Turbo", "V 50", "V 70 XC", "XC 70", "XC 90", "XC60"]
+	}, {
+		"brand": "VX",
+		"brandCode": 136,
+		"models": ["Cross", "VX"]
+	}, {
+		"brand": "Wiesmann",
+		"brandCode": 137,
+		"models": ["GT", "MF3"]
+	}, {
+		"brand": "Wuling",
+		"brandCode": 138,
+		"models": ["Half Lorry"]
+	}, {
+		"brand": "Yangzi",
+		"brandCode": 139,
+		"models": ["Stalyo"]
+	}]
+}
